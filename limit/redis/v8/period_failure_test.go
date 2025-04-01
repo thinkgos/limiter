@@ -7,7 +7,7 @@ import (
 	"github.com/go-redis/redis/v8"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/things-go/limiter/limit/tests"
+	"github.com/thinkgos/limiter/limit/tests"
 )
 
 func TestPeriodFailureLimit_Check(t *testing.T) {

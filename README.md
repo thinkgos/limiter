@@ -1,11 +1,11 @@
 # limiter
-[![GoDoc](https://godoc.org/github.com/things-go/limiter?status.svg)](https://godoc.org/github.com/things-go/limiter)
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/things-go/limiter?tab=doc)
-[![codecov](https://codecov.io/gh/things-go/limiter/branch/main/graph/badge.svg)](https://codecov.io/gh/things-go/limiter)
-[![Tests](https://github.com/things-go/limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/things-go/limiter/actions/workflows/ci.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/things-go/limiter)](https://goreportcard.com/report/github.com/things-go/limiter)
-[![Licence](https://img.shields.io/github/license/things-go/limiter)](https://raw.githubusercontent.com/things-go/limiter/main/LICENSE)
-[![Tag](https://img.shields.io/github/v/tag/things-go/limiter)](https://github.com/things-go/limiter/tags)
+[![GoDoc](https://godoc.org/github.com/thinkgos/limiter?status.svg)](https://godoc.org/github.com/thinkgos/limiter)
+[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/thinkgos/limiter?tab=doc)
+[![codecov](https://codecov.io/gh/thinkgos/limiter/branch/main/graph/badge.svg)](https://codecov.io/gh/thinkgos/limiter)
+[![Tests](https://github.com/thinkgos/limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/thinkgos/limiter/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/thinkgos/limiter)](https://goreportcard.com/report/github.com/thinkgos/limiter)
+[![Licence](https://img.shields.io/github/license/thinkgos/limiter)](https://raw.githubusercontent.com/thinkgos/limiter/main/LICENSE)
+[![Tag](https://img.shields.io/github/v/tag/thinkgos/limiter)](https://github.com/thinkgos/limiter/tags)
 
 ## Features
 
@@ -20,13 +20,13 @@
 Use go get.
 
 ```bash
-    go get github.com/things-go/limiter
+    go get github.com/thinkgos/limiter
 ```
 
 Then import the package into your own code.
 
 ```bash
-    import "github.com/things-go/limiter"
+    import "github.com/thinkgos/limiter"
 ```
 
 ### Example

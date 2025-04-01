@@ -12,7 +12,7 @@ import (
 	"github.com/go-redis/redis/v8"
 	xrate "golang.org/x/time/rate"
 
-	redisScript "github.com/things-go/limiter/limit/redis"
+	redisScript "github.com/thinkgos/limiter/limit/redis"
 )
 
 // TokenLimit controls how frequently events are allowed to happen with in one second.

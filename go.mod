@@ -1,4 +1,4 @@
-module github.com/things-go/limiter
+module github.com/thinkgos/limiter
 
 go 1.22
 

@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/things-go/limiter/limit"
+	"github.com/thinkgos/limiter/limit"
 )
 
 const (

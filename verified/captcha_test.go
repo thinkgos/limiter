@@ -7,8 +7,8 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	redisV9 "github.com/things-go/limiter/verified/redis/v9"
-	"github.com/things-go/limiter/verified/tests"
+	redisV9 "github.com/thinkgos/limiter/verified/redis/v9"
+	"github.com/thinkgos/limiter/verified/tests"
 )
 
 func TestCaptcha_Improve_Cover(t *testing.T) {

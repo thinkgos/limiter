@@ -6,8 +6,8 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"github.com/things-go/limiter/limit"
-	redisScript "github.com/things-go/limiter/limit/redis"
+	"github.com/thinkgos/limiter/limit"
+	redisScript "github.com/thinkgos/limiter/limit/redis"
 )
 
 var _ limit.PeriodStorage = (*PeriodStore)(nil)

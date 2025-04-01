@@ -7,7 +7,7 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/things-go/limiter/verified/tests"
+	"github.com/thinkgos/limiter/verified/tests"
 )
 
 func TestReflux_Improve_Cover(t *testing.T) {

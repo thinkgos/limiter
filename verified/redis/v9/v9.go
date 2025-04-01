@@ -7,8 +7,8 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"github.com/things-go/limiter/verified"
-	redisScript "github.com/things-go/limiter/verified/redis"
+	"github.com/thinkgos/limiter/verified"
+	redisScript "github.com/thinkgos/limiter/verified/redis"
 )
 
 // RedisStore verified captcha limit

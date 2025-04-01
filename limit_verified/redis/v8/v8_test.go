@@ -6,7 +6,7 @@ import (
 	"github.com/alicebob/miniredis/v2"
 	"github.com/go-redis/redis/v8"
 	"github.com/stretchr/testify/require"
-	"github.com/things-go/limiter/limit_verified/tests"
+	"github.com/thinkgos/limiter/limit_verified/tests"
 )
 
 func Test_RedisV8_Name(t *testing.T) {

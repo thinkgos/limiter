@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/things-go/limiter/limit_verified"
+	"github.com/thinkgos/limiter/limit_verified"
 )
 
 const (

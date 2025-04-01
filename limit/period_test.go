@@ -7,8 +7,8 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/assert"
 
-	redisV9 "github.com/things-go/limiter/limit/redis/v9"
-	"github.com/things-go/limiter/limit/tests"
+	redisV9 "github.com/thinkgos/limiter/limit/redis/v9"
+	"github.com/thinkgos/limiter/limit/tests"
 )
 
 func TestPeriodLimit_Take(t *testing.T) {
