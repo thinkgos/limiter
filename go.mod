@@ -1,13 +1,13 @@
 module github.com/thinkgos/limiter
 
-go 1.22
+go 1.23.0
 
 require (
 	github.com/alicebob/miniredis/v2 v2.34.0
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/redis/go-redis/v9 v9.8.0
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/time v0.10.0
+	golang.org/x/time v0.12.0
 )
 
 require (
