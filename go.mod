@@ -7,7 +7,7 @@ require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/redis/go-redis/v9 v9.14.0
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/time v0.13.0
+	golang.org/x/time v0.14.0
 )
 
 require (
